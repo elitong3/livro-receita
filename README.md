@@ -5,3 +5,4 @@
 - Estrogonoff de Frango
 - Bolo de cenoura
 - Ovô
+- Frango
