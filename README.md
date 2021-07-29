@@ -4,5 +4,4 @@
 
 - Estrogonoff de Frango
 - Bolo de cenoura   
-
-- Pavê
+-  Frango
